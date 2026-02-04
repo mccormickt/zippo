@@ -7,7 +7,7 @@ require (
 	github.com/coreos/ignition/v2 v2.14.0
 	github.com/gorilla/mux v1.8.0
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.8.3
 	golang.org/x/mod v0.3.0
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
